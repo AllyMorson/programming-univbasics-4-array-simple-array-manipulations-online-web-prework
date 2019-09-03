@@ -1,4 +1,4 @@
-famous_cats = ["lil' bub", "grumpy cat", "Maru"]
+def artists = ["Frida Kahlo", "Pablo Picasso", "Cai Guo-Qiang"]
+artists.pop
  
-famous_cats.unshift("nala cat")
-p famous_cats
+p artists
