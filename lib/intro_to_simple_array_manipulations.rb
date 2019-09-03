@@ -1,3 +1,5 @@
-artists = ["Hozier", "Ariana Grande", "Usher"]
-next_artist = "Beyonce"
-artists.push(next_artist)
+famous_cats = ["lil' bub", "grumpy cat", "Maru"]
+ 
+famous_cats.push("nala cat")
+ 
+p famous_cats
